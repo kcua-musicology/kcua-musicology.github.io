@@ -46,32 +46,4 @@ jQuery(document).ready(function( $ ) {
 			];
 			var myDoughnut = new Chart(document.getElementById("bootstrap").getContext("2d")).Doughnut(doughnutData);
 		}
-
-		// WordPress Chart
-		if($('#wordpress').length) {
-			var doughnutData = [{
-					value: 55,
-					color: "#74cfae"
-				},
-				{
-					value: 45,
-					color: "#3c3c3c"
-				}
-			];
-			var myDoughnut = new Chart(document.getElementById("wordpress").getContext("2d")).Doughnut(doughnutData);
-		}
-
-		// Photoshop Chart
-		if($('#photoshop').length) {
-			var doughnutData = [{
-					value: 80,
-					color: "#74cfae"
-				},
-				{
-					value: 20,
-					color: "#3c3c3c"
-				}
-			];
-			var myDoughnut = new Chart(document.getElementById("photoshop").getContext("2d")).Doughnut(doughnutData);
-		}
 });
