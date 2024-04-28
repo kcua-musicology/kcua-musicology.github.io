@@ -30,7 +30,7 @@ width: 100%;
 }
 
 #copyrights a {
-  color: #74cfae;
+  color: #cf8074;
 }
 
 .credits {
@@ -118,7 +118,7 @@ hr {
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
   color: #ffffff;
-  background-color: #74cfae;
+  background-color: #cc8276;
 }
 
 .navbar-brand {
@@ -160,11 +160,11 @@ hr {
   font-size: 40px;
   font-weight: 700;
   letter-spacing: 3px;
-  color: #c40000;
+  color: #cc8276;
 }
 
 #welcome h2 {
-  color: #c40000;
+  color: #cc8276;
   font-weight: 400;
 }
 #welcome p,ul {
@@ -397,5 +397,3 @@ hr {
 }
 
 
-
-/
