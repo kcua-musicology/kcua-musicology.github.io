@@ -9,8 +9,8 @@
 
 <channel>
 	<title>お知らせ - KCUA Musicology</title>
-	<atom:link href="https://kcua-musicology.github.io/category/info/feed/" rel="self" type="application/rss+xml" />
-	<link>https://kcua-musicology.github.io/</link>
+	<atom:link href="/category/info/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 17 Sep 2024 05:08:38 +0000</lastBuildDate>
 	<language>ja</language>
@@ -21,18 +21,18 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
 		<title>音楽学専攻Webサイトへようこそ！</title>
-		<link>https://kcua-musicology.github.io/welcome/</link>
+		<link>/welcome/</link>
 		
 		<dc:creator><![CDATA[kcua_musicology]]></dc:creator>
 		<pubDate>Tue, 17 Sep 2024 05:06:10 +0000</pubDate>
 				<category><![CDATA[お知らせ]]></category>
-		<guid isPermaLink="false">https://kcua-musicology.github.io/?p=196</guid>
+		<guid isPermaLink="false">/?p=196</guid>
 
 					<description><![CDATA[このWebサイトでは京都市立芸術大学音楽学専攻を紹介しています。 本Webページは2024年度前期「音楽学演習h1」の一環として作成されました。 今後、学生・教員の活躍についても紹介しながらコンテンツの拡充を予定していま [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>このWebサイトでは京都市立芸術大学音楽学専攻を紹介しています。<br />
 本Webページは2024年度前期「音楽学演習h1」の一環として作成されました。<br />
 今後、学生・教員の活躍についても紹介しながらコンテンツの拡充を予定しています。</p>
-<p><img fetchpriority="high" decoding="async" src="https://kcua-musicology.github.io/wp-content/uploads/2024/09/2024-08-23-13.19.40-768x1024.png" alt="" width="768" height="1024" class="alignnone size-large wp-image-197" srcset="https://kcua-musicology.github.io/wp-content/uploads/2024/09/2024-08-23-13.19.40-768x1024.png 768w, https://kcua-musicology.github.io/wp-content/uploads/2024/09/2024-08-23-13.19.40-225x300.png 225w, https://kcua-musicology.github.io/wp-content/uploads/2024/09/2024-08-23-13.19.40-1152x1536.png 1152w, https://kcua-musicology.github.io/wp-content/uploads/2024/09/2024-08-23-13.19.40-1536x2048.png 1536w" sizes="(max-width: 768px) 100vw, 768px" /><br />
+<p><img fetchpriority="high" decoding="async" src="/wp-content/uploads/2024/09/2024-08-23-13.19.40-768x1024.png" alt="" width="768" height="1024" class="alignnone size-large wp-image-197" srcset="/wp-content/uploads/2024/09/2024-08-23-13.19.40-768x1024.png 768w, /wp-content/uploads/2024/09/2024-08-23-13.19.40-225x300.png 225w, /wp-content/uploads/2024/09/2024-08-23-13.19.40-1152x1536.png 1152w, /wp-content/uploads/2024/09/2024-08-23-13.19.40-1536x2048.png 1536w" sizes="(max-width: 768px) 100vw, 768px" /><br />
 （撮影者：正田（2024年8月23日））</p>
 ]]></content:encoded>
 					

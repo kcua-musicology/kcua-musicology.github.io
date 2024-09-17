@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	KCUA Musicology へのコメント	</title>
-	<atom:link href="https://kcua-musicology.github.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://kcua-musicology.github.io/</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 17 Sep 2024 05:39:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
