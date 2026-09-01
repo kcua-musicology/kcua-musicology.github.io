@@ -8,6 +8,7 @@ hero_mobile: /wp-content/uploads/2024/09/img1-scaled-1.jpg
 
 ## 更新情報
 
+- 2026年9月1日　2025年度の[学位論文題目](/musicology/dissertation/)を掲載しました。
 - 2025年11月17日　[京都市立芸術大学Webオープンキャンパス](https://www.youtube.com/@web9882)に，音楽学専攻の紹介動画がアップされました。皆さま，ぜひご覧ください。<br />
   <https://youtu.be/Lh6eUglkbRo?si=KO9OHOeNcurAdO8M>
 - 2025年9月27日・10月4日　2025年度オープンキャンパスを実施しました。
